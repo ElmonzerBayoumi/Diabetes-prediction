@@ -41,7 +41,9 @@ DB_Modeling.ipynb
 - Streamlit (optional)
 
 ##  Screenshots 
-*Add charts or app screenshots here if you want to impress visually*
+![alt text](<class distribution.png>)
+![alt text](<Confusion Matrix.png>)
+![alt text](Accuracy.png)
 
 ## Contact
 For questions or feedback, reach me at:  
