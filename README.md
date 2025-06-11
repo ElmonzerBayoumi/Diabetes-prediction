@@ -37,7 +37,7 @@ DB_Modeling.ipynb
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- Googel colab Notebook
 - Streamlit (optional)
 
 ##  Screenshots 
