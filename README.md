@@ -18,7 +18,7 @@ The goal is to build an accurate, interpretable model that can support early dia
 5. Model Evaluation (Accuracy, Precision, Recall, AUC)
 
 
-## ✅ Results Summary
+##  Results Summary
 - **Best Model**: Random Forest Classifier
 - **Accuracy**: 88%
 - The model shows strong potential in assisting doctors with early diabetes detection.
