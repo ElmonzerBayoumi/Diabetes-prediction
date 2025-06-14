@@ -48,4 +48,4 @@ DB_Modeling.ipynb
 ## Contact
 For questions or feedback, reach me at:  
 elmonzerb9928@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/elmonzer_bayoumi)
+🔗 [LinkedIn](www.linkedin.com/in/elmonzer-bayoumi)
